@@ -118,6 +118,15 @@ cd ALZHEIMERS-DIAGNOSIS-PATIENT-OUTCOME-PREDICTION
 ----
 
 
+## Install required dependencies:
+
+```bash
+pip install -r requirements.txt
+
+```
+
+----
+
 ## 📜 License
 
 This project is open-source and licensed under the [MIT License](LICENSE). See the LICENSE file for full details.
@@ -141,9 +150,3 @@ https://nayan-datascience-portfolio.vercel.app/
 ```
 
 
-## Install required dependencies:
-
-```bash
-pip install -r requirements.txt
-
-```
